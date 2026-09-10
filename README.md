@@ -20,6 +20,9 @@ The project compares several classification algorithms to predict whether a loan
 
 **Best test accuracy:** Random Forest — **97.89%**
 
+🛠️ Technologies Used
+Python · Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn · Joblib · Jupyter Notebook
+
 > *A little garden of models, helping make smarter lending decisions.* 🌱
 
 🌱 ✦ 🐇 ✦ 🪽
