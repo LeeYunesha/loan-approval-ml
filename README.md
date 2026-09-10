@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🌱 Data · 🐍 Python · 📊 Machine Learning · 🪽 Experimentation
+  🌱 Data · 🐍 Python · 🤖 Machine Learning · 🪽 Experimentation
 </p>
 
 ---
@@ -28,18 +28,17 @@ The project was created as a hands-on journey into **data preprocessing, feature
 
 ```text
 loan_approval_ml/
-│
-├── 🌱 data/
-│   └── loan_approval_dataset.csv
-│
-├── 🐍 preprocessing.py
-├── 🐍 model.py
-├── 🐍 model2.py
-│
-├── 🧸 *.pkl
-│   └── saved machine learning objects
-│
-└── 🌷 README.md
+🌱 data/
+loan_approval_dataset.csv
+
+🐍preprocessing.py
+🐍 model.py
+🐍 model2.py
+
+🧸 *.pkl
+saved machine learning objects
+
+🌷 README.md
 ```
 
 ---
